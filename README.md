@@ -9,3 +9,9 @@ Steps to install:
 2. Run the installer.
 3. Wait for the program to finish installing.
 4. Done! Run Loggy.py(or .exe) to start using Loggy!
+
+
+
+NOTE ON ANTIVIRUSES!
+
+This program will be flagged. It is not a virus!!!
